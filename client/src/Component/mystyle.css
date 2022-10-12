@@ -1,0 +1,178 @@
+
+.footer-style{
+  text-shadow: #ccc;
+  font-size: large;
+  font-weight: 500;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.bg1{
+  background-color: #000;
+}
+.bgim{
+
+  background-image: url();
+  background-repeat: no-repeat;
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-size: cover;
+}
+.myloginbox{
+    margin-top:5%;
+    margin-right:30%;
+    margin-left:30%;
+}
+.alert-danger {
+    padding: 20px;
+    color:  #f44336;
+    margin-top:-5%;
+    text-align: center;
+  }
+  
+ .mybtn{
+    border: none;
+    background: #ffaa3c;
+    margin:3px;
+    border-radius: 3px;
+    color: white;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+ }
+  
+ .mybtn1{
+    border: none;
+    margin:3px;
+    border-radius: 0px;
+    color: #ffaa3c;
+    margin-top:5px;
+    background-color: transparent;
+ }
+
+ 
+ 
+ .mybtn2{
+    border: none;
+    background: #ffaa3c;
+    margin:3px;
+    border-radius: 3px;
+    color: white;
+    width:100%;
+    height:40px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    -webkit-transition: .3s ease;
+            transition: .3s ease; 
+ }
+ .mybtn3{
+  border: none;
+  background: #ffaa3c;
+  margin:3px;
+  border-radius: 3px;
+  color: white;
+  width:200px;
+  height:40px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  -webkit-transition: .3s ease;
+          transition: .3s ease; 
+}
+ .text-centre
+ {
+    text-align: center;
+ }
+ .cl-pm{
+    color: #ffaa3c;
+ }
+ .mymovie-box{
+    width:100%;
+    max-height:290px;
+    margin-top:20%;
+    margin-bottom: 20%;
+}
+.img-height{
+    max-height: 250px;
+    height:250px;
+    width:auto;
+}
+
+.notification {
+    color: white;
+    text-decoration: none;
+    padding: 15px 26px;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+  }
+  
+  .notification:hover {
+    background:  #ffe9cc;
+  }
+  
+  .notification .badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background-color:  #ffaa3c;
+    color: white;
+  }
+  .badge:hover{
+    background-color: white;
+    color:  #ffaa3c;
+    border-color:#ffaa3c;
+  }
+  .card-wi{
+    margin-left:30px;
+  }
+  .card-ti{
+    margin-top:-80px;
+  }
+  h5{
+    margin-top:-10px;
+  }
+  .left{
+    margin-left:20px;
+  }
+  .checked {
+    color: orange;
+  }
+  .rating{
+    margin-top:-15px;
+    margin-bottom:10px;
+    margin-left:18%;
+  }
+  .on {
+    color: #000;
+  }
+  .off {
+    color: #ccc;
+  }
+  .rating2{font-size: 30px;
+     margin-left:-5px;
+     color: orange;
+     }
+     .rating2 h1{font-size: 30px;
+      margin-left:-5px;
+      color: orange;
+      }
+    .tl{
+      margin-bottom:50px;
+    }
+    .imgsize{
+
+      width:auto;
+      height:500px;
+    }
+    .review-box{
+      border-radius: 3px;
+      border-color: #ffaa3c;
+    }
+    .test-img{
+      width:auto;
+      height:40px;
+    }
+    .box{
+      width: 50px;
+    }
